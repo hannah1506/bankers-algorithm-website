@@ -1,0 +1,2 @@
+String s = "nothing";  
+System.out.println(s.replace("nothing", "still nothing"));
