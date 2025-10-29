@@ -1,0 +1,2 @@
+int x = (int)(Math.random() * 1);  
+System.out.println("Garbage value: " + x * 0);
